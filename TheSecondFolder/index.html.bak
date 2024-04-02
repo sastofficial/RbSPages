@@ -7,7 +7,7 @@
     <style type="text/css">
 #backround {
   background-image: url("backround.gif");
-  background-size: auto auto;
+  background-size: cover;
   background-repeat: repeat;
   background-position: left top;
   background-attachment: scroll;
@@ -30,8 +30,19 @@ text-shadow: 5px 5px black;
   <body id="backround">
     <h1 id="Header" style="text-align: center;">A Folder of Kron's Music: The
       Second Folder</h1>
+    <p style="text-align: center;"><img src="cover.png" alt="" style="width: 270px; height: 270px;"></p>
+    <h1 id="Header" style="text-align: center;">Listen</h1>
+    <p style="text-align: center;"><img src="spotify.gif" alt="">&nbsp;&nbsp;&nbsp;
+      <img src="apple%20music.png" alt="">&nbsp;&nbsp;&nbsp; <img src="sc.gif"
+        alt=""></p>
+    <p style="text-align: center;"><img src="youtube.png" alt="">&nbsp;&nbsp;&nbsp;
+      <img src="bc.png" alt="">&nbsp;&nbsp;&nbsp; <img src="amazon.gif" alt=""></p>
+    <h1 id="Header" style="text-align: center;">Buy CD</h1>
+    <h1 id="Header" style="text-align: center;"><img src="cd.png" alt=""></h1>
+    <p style="text-align: center;"></p>
     <p><br>
     </p>
-    <p style="text-align: center;"><img src="cover.png" alt="" style="width: 790px; height: 790px;"></p>
+    <p style="text-align: center;"></p>
+    <p style="text-align: center;"></p>
   </body>
 </html>
